@@ -1,4 +1,4 @@
-# devChallenges.io-image-uploader-server
+# devchallenges.io-image-uploader-server
 
 ## Challenge
 
